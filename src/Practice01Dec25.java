@@ -19,6 +19,6 @@ public class Practice01Dec25 {
         arl1.add(2);
         arl1.add(2,25);
         System.out.println(arl1);
-        System.out.println(arl1.get(2));
+        System.out.println(arl1.get(1));
     }
 }
